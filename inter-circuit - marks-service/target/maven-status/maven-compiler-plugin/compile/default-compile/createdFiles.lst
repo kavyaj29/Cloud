@@ -1,0 +1,4 @@
+com\mycompany\marks\service\MarksController.class
+com\mycompany\marks\service\dto\HelloDTO.class
+com\mycompany\marks\service\MarksServiceApplication.class
+com\mycompany\marks\service\web\HelloController.class

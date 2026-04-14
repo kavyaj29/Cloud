@@ -1,0 +1,6 @@
+com\mycompany\product_service\Application.class
+com\mycompany\product_service\dto\HelloDTO.class
+com\mycompany\product_service\ProductRepo.class
+com\mycompany\product_service\ProductController.class
+com\mycompany\product_service\web\HelloController.class
+com\mycompany\product_service\ProductEntity.class

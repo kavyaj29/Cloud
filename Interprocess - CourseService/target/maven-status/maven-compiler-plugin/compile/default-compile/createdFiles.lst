@@ -1,0 +1,4 @@
+com\mycompany\courseservice\dto\HelloDTO.class
+com\mycompany\courseservice\controller\CourseController.class
+com\mycompany\courseservice\web\HelloController.class
+com\mycompany\courseservice\Application.class

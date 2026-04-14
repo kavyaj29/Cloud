@@ -1,0 +1,4 @@
+com\mycompany\grade\service\web\HelloController.class
+com\mycompany\grade\service\dto\HelloDTO.class
+com\mycompany\grade\service\GradeController.class
+com\mycompany\grade\service\GradeServiceApplication.class

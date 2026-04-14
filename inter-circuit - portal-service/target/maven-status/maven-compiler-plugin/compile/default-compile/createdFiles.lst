@@ -1,0 +1,5 @@
+com\mycompany\portal\service\PortalServiceApplication.class
+com\mycompany\portal\service\config\RestTemplateConfig.class
+com\mycompany\portal\service\controller\PortalController.class
+com\mycompany\portal\service\web\HelloController.class
+com\mycompany\portal\service\dto\HelloDTO.class

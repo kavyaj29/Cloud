@@ -1,0 +1,4 @@
+com\mycompany\libraryservice\dto\HelloDTO.class
+com\mycompany\libraryservice\Application.class
+com\mycompany\libraryservice\web\HelloController.class
+com\mycompany\libraryservice\controller\LibraryController.class

@@ -1,0 +1,15 @@
+2026-02-23 21:00:13 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CUSTOMER" not found; SQL statement:
+DELETE FROM CUSTOMER [42102-214]
+2026-02-23 21:00:22 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "DELETE FROM [*]ORDER"; expected "identifier"; SQL statement:
+DELETE FROM ORDER [42001-214]
+2026-02-23 21:00:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ORDERDB" not found; SQL statement:
+DELETE FROM ORDERDB [42102-214]
+2026-02-23 21:00:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ORDERDB" not found; SQL statement:
+DELETE FROM ORDERDB [42102-214]
+2026-02-23 21:00:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ORDERDB" not found; SQL statement:
+DELETE FROM ORDERDB [42102-214]
